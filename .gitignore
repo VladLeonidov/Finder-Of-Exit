@@ -4,6 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Mono*
+FinderOfExit_Data*
+*.exe
 
 # Visual Studio cache directory
 .vs/
