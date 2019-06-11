@@ -3,9 +3,9 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/AssetStoreTools*
 [Mm]ono/
 [Ff]inderOfExit_Data/
+Assets/AssetStoreTools*
 *.exe
 
 # Visual Studio cache directory
