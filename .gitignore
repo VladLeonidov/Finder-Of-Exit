@@ -3,10 +3,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Mm]ono/
-[Ff]inderOfExit_Data/
 Assets/AssetStoreTools*
-*.exe
 
 # Visual Studio cache directory
 .vs/
